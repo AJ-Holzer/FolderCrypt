@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foldercrypt", "foldercrypt.csproj", "{39122A06-975A-87BD-9114-3FA4AD0B0298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39122A06-975A-87BD-9114-3FA4AD0B0298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39122A06-975A-87BD-9114-3FA4AD0B0298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39122A06-975A-87BD-9114-3FA4AD0B0298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39122A06-975A-87BD-9114-3FA4AD0B0298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C604A2C3-76D9-458C-A45D-134DE7371BEE}
+	EndGlobalSection
+EndGlobal
