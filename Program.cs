@@ -18,5 +18,7 @@ internal class Program
 
         // Get path
         string path = args[0];
+
+        // TODO: Check if the path is not the directory of the current script!
     }
 }
